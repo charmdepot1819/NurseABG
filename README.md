@@ -1,0 +1,1 @@
+Type in the gas and electrolytes from the analyzer slip. The interpreter names the disorder, checks compensation, checks the anion gap and delta ratio, and grades oxygenation, showing the formula behind each call.
